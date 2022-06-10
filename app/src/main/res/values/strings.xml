@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">漫威连连看</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="about_introduce">
+        ------制作背景------\n\n
+        大三选修课移动通信软件开发，安卓端的软件开发，kotlin的应用
+        了解并能够熟练运用Android四大组件、多线程开发以及持久化存储，
+        从而初步掌握Android开发的基本流程。\n\n
+        ------2019年主要功能------\n\n
+        - 支持连连看小游戏的基本操作\n
+        - 游戏成绩可持久化存储\n
+        - 多个背景音乐及应用主题以供选择\n
+        - 增加查看漫画人物资料卡等拓展功能\n\n
+        ------2022年新增功能------\n\n
+        - 提供访问相册自主选择图片功能\n
+        - 修复了游戏中动画显示异常bug\n
+        - 修复了游戏中方块消除判定bug\n
+        - 修复了切换主题闪退bug\n
+        - 优化了广告页面\n <!-- 加入跳过功能-->
+        - 修复了反馈界面无法返回\n
+        - 增加bgm开关,优化了音效设置\n
+        - 修复了消除道具无法取消bug\n
+    </string>
+
+    <string name="menu_action_all_down">All down</string>
+    <string name="menu_action_up_down">Up down</string>
+    <string name="menu_action_up_down_stack">Up down stack</string>
+</resources>
