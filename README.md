@@ -6,7 +6,7 @@
     <th>描述</th>
   </tr>
   <tr>
-    <td><img width="110" height="110" src="https://github.com/SiwenZss/Marvel_linkgame/tree/master/imgs/阿尼亚1.jpg"></td>
+    <td>[<img width="110" height="110" src="https://github.com/SiwenZss/Marvel_linkgame/tree/master/imgs/阿尼亚1.jpg">](https://raw.githubusercontent.com/SiwenZss/Marvel_linkgame/master/imgs/%E9%98%BF%E5%B0%BC%E4%BA%9A1.jpg)</td>
     <td width="600">这是一款基于安卓平台的漫威主题连连看app，我们大三移动应用开发课程的实验作业。旨在帮助我们初步认识安卓开发，了解和简单使用Android四大组件、多线程开发以及持久化存储，从而初步掌握Android开发的基本流程。</td>
   </tr>
 </table>
